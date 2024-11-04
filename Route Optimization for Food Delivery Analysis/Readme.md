@@ -173,7 +173,7 @@ To replicate or adapt this project:
 
 > **Note**: This interactive dashboard is hosted on Power BI Service. You can view and interact with the dashboards in real-time to explore data insights dynamically.
 
-![Interactive Dashboard](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Video%20Presentation.gif) <!-- Replace with a GIF preview and link to the interactive dashboard -->
+Check the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2EzOGQtNDFlOC00NmRlLWJkMDgtYjg5Y2NmYjAxMWI1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9) <!-- Replace with a GIF preview and link to the interactive dashboard -->
 
 ### Dashboard Highlights
 - **Customer Orders Overview**: Interact with the order density map, order status filters, and peak delivery times.
