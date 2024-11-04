@@ -132,7 +132,7 @@ Key insights include:
 
 ### 3. 👷 Driver Attrition Analysis
 
-![Driver Attrition Dashboard](path-to-driver-attrition-dashboard.png) <!-- Replace with the actual path or link to your dashboard image -->
+![Driver Attrition Dashboard](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Driver%20Attrition%20Analysis%20Page.PNG) <!-- Replace with the actual path or link to your dashboard image -->
 
 This dashboard focuses on driver workload and attrition trends:
 - **Drivers with Highest Delays**: Shows the drivers most affected by delays.
