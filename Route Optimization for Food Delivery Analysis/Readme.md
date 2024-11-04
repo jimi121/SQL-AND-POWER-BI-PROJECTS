@@ -2,7 +2,7 @@
 ![](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Route%20Optimization.jpg)
 Welcome to the UrbanEats Delivery Optimization Project! This project focuses on optimizing delivery routes and improving delivery efficiency for food delivery services in dense urban areas. Through SQL-based data retrieval and analysis combined with Power BI for visualization, this dashboard helps UrbanEats tackle challenges like driver attrition, traffic congestion, and delayed deliveries.
 
-![Project Image]() <!-- Replace with the actual path or link to your overview image -->
+<!-- ![Project Image]() <!-- Replace with the actual path or link to your overview image -->
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
@@ -97,7 +97,7 @@ The project includes four main datasets:
 4. **Restaurants**: Contains restaurant identifiers and addresses.
 
 ### 📄 SQL Scripts
-To demonstrate SQL proficiency, all SQL scripts used for data cleaning, transformation, and analysis are stored in the [`sql-scripts`](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md) folder. The main queries include:
+To demonstrate SQL proficiency, all SQL scripts used for data cleaning, transformation, and analysis are stored in the [`Sql-query-and-answer`](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md) folder. The main queries include:
 - Calculating average delivery times by day and location.
 - Identifying high-density traffic zones based on timestamp.
 - Deriving driver shift analysis, including maximum and minimum shift durations.
@@ -162,7 +162,7 @@ To replicate or adapt this project:
 2. **Set up a PostgreSQL Database** and load the datasets provided in the /data folder.
 
 3. **Run SQL Scripts:**
-- Use scripts from the [sql-scripts]() folder to prepare and analyze the data.
+- Use scripts from the [sql-scripts](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20SCHEMA.sql) folder to prepare and analyze the data.
 
 4. **Power BI Dashboard:**
 - Open the provided `.pbix` file in Power BI Desktop to explore the dashboards interactively.
@@ -181,9 +181,7 @@ Check the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2E
 - **Driver Attrition Insights**: Filter by driver, shift length, and delivery delays to analyze driver performance trends.
 
 ---
-[**Check the Sql Analysis here**](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md)
 
-[**Check the Interactive Dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2EzOGQtNDFlOC00NmRlLWJkMDgtYjg5Y2NmYjAxMWI1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 ## 🏆 Conclusion and Next Steps
 
@@ -196,6 +194,9 @@ Through this project, UrbanEats has a data-driven route optimization solution th
 
 Thank you for exploring this project. Feel free to reach out for any questions or collaboration opportunities!
 
+[**Check the Sql Analysis here**](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md)
+
+[**Check the Interactive Dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2EzOGQtNDFlOC00NmRlLWJkMDgtYjg5Y2NmYjAxMWI1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 # 📬 Contact
 Feel free to reach out if you have any questions or feedback:
