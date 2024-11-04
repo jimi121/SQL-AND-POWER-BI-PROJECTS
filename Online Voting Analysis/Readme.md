@@ -179,7 +179,7 @@ SELECT
        SUM(CASE WHEN Page_Views > 15 THEN 1 ELSE 0 END) AS Complete_Vote
 FROM User_Interaction;
 ```
-[View the Full SQL Scripts Here 📝]()
+[View the Full SQL Scripts Here 📝](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Online%20Voting%20Analysis/SQL%20Analysis.md)
 
 ---
 
@@ -218,7 +218,7 @@ Using **Power BI**, we transformed **SQL** insights into interactive dashboards 
 
 - **Recommendations:** Improve mobile navigation, add progress indicators, and gather user feedback.
 
-[View the Power BI Dashboards Here 📊]()
+[View the Power BI Dashboards Here 📊](https://app.powerbi.com/view?r=eyJrIjoiYzJhNDE5MjMtNTA4OC00NmU1LTg5YzMtMmYwODFiOWIyZmY4IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 ## 📈 Key Performance Indicators (KPIs)
 Using DAX, KPIs were created to monitor platform performance, such as Returning Voter Rate, First-Time Voter Rate, Security Breach Rate, and User Drop-Off Rate.
@@ -237,11 +237,10 @@ SecurityBreachRate = DIVIDE(
     COUNTROWS('security_logs')
 )
 ```
-Here is the image for the Dashboard Analysis ![link](https://app.powerbi.com/view?r=eyJrIjoiYzJhNDE5MjMtNTA4OC00NmU1LTg5YzMtMmYwODFiOWIyZmY4IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 # 🏁 Conclusion
 Through SQL-based data cleaning and Power BI dashboards, this project provided actionable insights into voter engagement, security, and user experience in an online voting system. The recommendations aim to improve voter turnout, reduce security threats, and enhance user experience. With these improvements, stakeholders can make data-driven decisions that support a secure, accessible, and user-friendly online voting platform.
 
-[View the Full SQL Scripts Here 📝]()
+[View the Full SQL Scripts Here 📝](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Online%20Voting%20Analysis/SQL%20Analysis.md)
 \
-[View the Power BI Dashboards Here 📊]()
+[View the Power BI Dashboards Here 📊](https://app.powerbi.com/view?r=eyJrIjoiYzJhNDE5MjMtNTA4OC00NmU1LTg5YzMtMmYwODFiOWIyZmY4IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
