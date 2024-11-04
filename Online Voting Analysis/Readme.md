@@ -185,7 +185,7 @@ FROM User_Interaction;
 
 ## 📊 Power BI Dashboards and Insights
 
-[Dashboard Walkthrough GIF](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Online%20Voting%20Analysis/Video%20presentation.gif)
+![Dashboard Walkthrough GIF](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Online%20Voting%20Analysis/Video%20presentation.gif)
 
 Using **Power BI**, we transformed **SQL** insights into interactive dashboards focused on three primary areas:
 
