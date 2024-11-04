@@ -123,7 +123,7 @@ This dashboard provides an overview of customer orders and reveals patterns in d
 
 ### 2. 🛑 Traffic Density Analysis
 
-![Traffic Density Dashboard](path-to-traffic-density-dashboard.png) <!-- Replace with the actual path or link to your dashboard image -->
+![Traffic Density Dashboard](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Traffic%20Density%20Analysis%20Page.PNG) <!-- Replace with the actual path or link to your dashboard image -->
 
 Key insights include:
 - **Traffic Density**: Displays average traffic density across high-congestion zones, showing peak hours and locations.
