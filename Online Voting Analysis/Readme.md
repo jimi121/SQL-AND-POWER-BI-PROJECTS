@@ -1,5 +1,5 @@
 # 🗳️ Data Analytics for Improving Online Voting Systems: Increasing Voter Engagement and Boosting Security
-
+![](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Online%20Voting%20Analysis/Vote.jpg)
 ## 📝 Executive Summary
 
 This project leverages **SQL** for data cleaning and exploratory analysis and **Power BI** for interactive dashboards. We focus on addressing three critical challenges in online voting systems: **low voter turnout**, **security vulnerabilities**, and **user experience issues**. By analyzing voter participation trends, identifying security risks, and examining user feedback, this project provides actionable recommendations to enhance system performance. Through a data-driven approach, we aim to make online voting more secure, accessible, and user-friendly, ultimately increasing democratic engagement.
@@ -237,7 +237,7 @@ SecurityBreachRate = DIVIDE(
     COUNTROWS('security_logs')
 )
 ```
-Here is the image for the Dashboard Analysis ![link]()
+Here is the image for the Dashboard Analysis ![link](https://app.powerbi.com/view?r=eyJrIjoiYzJhNDE5MjMtNTA4OC00NmU1LTg5YzMtMmYwODFiOWIyZmY4IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 # 🏁 Conclusion
 Through SQL-based data cleaning and Power BI dashboards, this project provided actionable insights into voter engagement, security, and user experience in an online voting system. The recommendations aim to improve voter turnout, reduce security threats, and enhance user experience. With these improvements, stakeholders can make data-driven decisions that support a secure, accessible, and user-friendly online voting platform.
