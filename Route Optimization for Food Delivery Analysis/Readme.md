@@ -1,8 +1,8 @@
 # 🚚 UrbanEats Delivery Route Optimization Project
-
+![](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Route%20Optimization.jpg)
 Welcome to the UrbanEats Delivery Optimization Project! This project focuses on optimizing delivery routes and improving delivery efficiency for food delivery services in dense urban areas. Through SQL-based data retrieval and analysis combined with Power BI for visualization, this dashboard helps UrbanEats tackle challenges like driver attrition, traffic congestion, and delayed deliveries.
 
-![Project Image](path-to-overview-image.png) <!-- Replace with the actual path or link to your overview image -->
+![Project Image]() <!-- Replace with the actual path or link to your overview image -->
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
