@@ -97,7 +97,7 @@ The project includes four main datasets:
 4. **Restaurants**: Contains restaurant identifiers and addresses.
 
 ### 📄 SQL Scripts
-To demonstrate SQL proficiency, all SQL scripts used for data cleaning, transformation, and analysis are stored in the [`sql-scripts`](./sql-scripts) folder. The main queries include:
+To demonstrate SQL proficiency, all SQL scripts used for data cleaning, transformation, and analysis are stored in the [`sql-scripts`](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md) folder. The main queries include:
 - Calculating average delivery times by day and location.
 - Identifying high-density traffic zones based on timestamp.
 - Deriving driver shift analysis, including maximum and minimum shift durations.
@@ -181,6 +181,9 @@ Check the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2E
 - **Driver Attrition Insights**: Filter by driver, shift length, and delivery delays to analyze driver performance trends.
 
 ---
+[**Check the Sql Analysis here**](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/SQL%20QUERY%20AND%20ANSWER.md)
+
+[**Check the Interactive Dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiNTc1N2EzOGQtNDFlOC00NmRlLWJkMDgtYjg5Y2NmYjAxMWI1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)
 
 ## 🏆 Conclusion and Next Steps
 
