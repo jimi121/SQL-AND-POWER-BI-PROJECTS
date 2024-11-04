@@ -112,7 +112,7 @@ The project’s visual insights are presented through three main Power BI dashbo
 
 ### 1. 📦 Customer Orders Overview
 
-![Customer Orders Dashboard](path-to-customer-orders-dashboard.png) <!-- Replace with the actual path or link to your dashboard image -->
+![Customer Orders Dashboard](https://github.com/jimi121/SQL-AND-POWER-BI-PROJECTS/blob/main/Route%20Optimization%20for%20Food%20Delivery%20Analysis/Overview%20Page.PNG) <!-- Replace with the actual path or link to your dashboard image -->
 
 This dashboard provides an overview of customer orders and reveals patterns in delivery delays and order density by day:
 - **Order Status**: Shows pending vs. delivered orders.
