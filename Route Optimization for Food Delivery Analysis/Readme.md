@@ -206,4 +206,4 @@ Feel free to reach out if you have any questions or feedback:
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/olajimi-adeleke?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSD4ss04nTYSVT8liopMYTA%3D%3D)
 
-- **Portfolio:** [Portfolio]()
+- **Portfolio:** [Portfolio](https://jimi121.github.io/)
